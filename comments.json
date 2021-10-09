@@ -1,0 +1,116 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "news_id": 1,
+            "title": "What?",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Welcome"
+        },
+
+        {
+            "id": 2,
+            "news_id": 2,
+            "title": "HOME",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Is it my home?"
+        },
+
+        {
+            "id": 3,
+            "news_id": 3,
+            "title": "CAT",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Is it my cat?"
+        },
+
+        {
+            "id": 4,
+            "news_id": 4,
+            "title": "Jack",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Oh, my name is Jack."
+        },
+
+        {
+            "id": 5,
+            "news_id": 1,
+            "title": "What?",
+            "date": "2019-01-02T18:58:25",
+            "comment": "It is Jonny!"
+        },
+
+        {
+            "id": 6,
+            "news_id": 1,
+            "title": "What?",
+            "date": "2021-01-02T21:58:25",
+            "comment": "Steaven King!"
+        },
+
+        {
+            "id": 7,
+            "news_id": 5,
+            "title": "OH",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Oh, my name is Clara."
+        },
+
+        {
+            "id": 8,
+            "news_id": 6,
+            "title": "Hm",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Rare"
+        },
+
+        {
+            "id": 9,
+            "news_id": 7,
+            "title": "Hm!",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Great"
+        },
+
+        {
+            "id": 10,
+            "news_id": 8,
+            "title": "Hm!",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Dog"
+        },
+
+        {
+            "id": 11,
+            "news_id": 9,
+            "title": "Hm!",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Dog and cat"
+        },
+
+        {
+            "id": 12,
+            "news_id": 2,
+            "title": "HOME",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Is it my home?"
+        },
+
+        {
+            "id": 13,
+            "news_id": 3,
+            "title": "CAT",
+            "date": "2021-01-02T21:58:25",
+            "comment": "Is it my cat?"
+        },
+
+        {
+            "id": 14,
+            "news_id": 8,
+            "title": "Hm",
+            "date": "2021-01-02T21:58:25",
+            "comment": "Rare"
+        }
+    ],
+    "comments_count": 14
+}
