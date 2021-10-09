@@ -12,7 +12,7 @@ class Handler:
         data_comments = json.load(open(path_comm))
         null_values = {"null", ""}
 
-        #Сортировка по дате убираем ненужные записи
+        #Сортировка по дате, убираем ненужные записи
         for i in data_news['news']:
             i["date"] = datetime.strptime(i["date"], '%Y-%m-%dT%H:%M:%S')
         data_news['news'] = sorted((item for item in data_news["news"] if (item["date"] not in null_values)  
@@ -56,7 +56,7 @@ class Handler:
         if not data_news["news"]:
             return web.json_response(additional_info)
 
-        #Проверка условий: удалены ли записи, время создания еще не наступило
+        #Проверка условий: удалены ли записи, наступило ли время создания 
         for i in data_news["news"]:
             i["date"] = datetime.strptime(i["date"], '%Y-%m-%dT%H:%M:%S')
 
